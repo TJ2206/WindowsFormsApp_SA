@@ -1,0 +1,17 @@
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.vbproj.AssemblyReference.cache
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.CreateSubmissionForm.resources
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.Form1.resources
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.Resources.resources
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.ViewSubmissionsForm.resources
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.vbproj.GenerateResource.cache
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.vbproj.CoreCompileInputs.cache
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\bin\Debug\SlidelyAI_final.exe.config
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\bin\Debug\SlidelyAI_final.exe
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\bin\Debug\SlidelyAI_final.pdb
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\bin\Debug\SlidelyAI_final.xml
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyA.C7757CF1.Up2Date
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.exe
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.xml
+C:\Users\vijpw\source\repos\SlidelyAI_final\SlidelyAI_final\obj\Debug\SlidelyAI_final.pdb
